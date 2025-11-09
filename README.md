@@ -1,6 +1,6 @@
 There is currently no fully released version yet.
 
-More info on if a version is ready to use and the version number are in Settings/General.json
+More info on if a version is ready to use and the version number are in "Settings/General.json".
 ReadyToUse can but is not limited to the following meanings:
 - Version has build errors that prevent it from running.
 - Version has incomplete features that can harm settings.
