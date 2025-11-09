@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Id": 1,
+    "AppName": "Example Application",
+    "ExePath": "C:\\Program Files\\ExampleApp\\Example.exe"
+  },
+  {
+    "Id": 2,
+    "AppName": "Another App",
+    "ExePath": "D:\\Apps\\AnotherApp\\App.exe"
+  }
+]
