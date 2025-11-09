@@ -107,6 +107,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Settings\General.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
